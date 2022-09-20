@@ -295,7 +295,7 @@ function notificarRegistroExitoso(){
         gravity: "bottom",
         position: "right",
         style: {
-            background: "#e23431"
+            background: "#15a14f"
         }
     }).showToast();
 }
